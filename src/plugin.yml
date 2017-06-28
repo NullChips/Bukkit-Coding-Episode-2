@@ -1,0 +1,8 @@
+name: FirstPlugin
+author: NCH
+version: 1.0
+main: me.nch.firstplugin.FirstPlugin
+
+commands:
+    firstcommand:
+        description: The first command of the plugin.  
